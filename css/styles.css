@@ -806,7 +806,7 @@ input::placeholder{
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.icon-modal-form:focus{
+.form-modal-text + .icon-modal-form:focus{
     fill: #4D5AE5;
 }
 
