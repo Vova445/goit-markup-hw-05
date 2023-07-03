@@ -871,10 +871,11 @@ input::placeholder{
 :root{
    --bg-color: #404bbf;
    --link-color: #4d5ae5;
+   --icon-fill-one: #ffffff;
 }
 
-.accept-privacy:checked{
-    background-color:var(--bg-color);
+.accept-privacy:checked, .accept-privacy:focus {
+    background-color: var(--bg-color);
     border: none;
     fill: var(--icon-fill-one);
 }
