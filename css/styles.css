@@ -873,7 +873,7 @@ input::placeholder{
    --link-color: #4d5ae5;
 }
 
-input[type="checkbox"]:checked{
+.accept-privacy:checked{
     background-color:var(--bg-color);
     border: none;
     fill: var(--icon-fill-one);
