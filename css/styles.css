@@ -874,7 +874,7 @@ input::placeholder{
    --icon-fill-one: #ffffff;
 }
 
-.accept-privacy:checked, .accept-privacy:focus {
+.accept-privacy:checked {
     background-color: var(--bg-color);
     border: none;
     fill: var(--icon-fill-one);
