@@ -779,9 +779,7 @@ input::placeholder{
 
 
 
-.div-one{
-    position: relative;
-}
+
 
 
 .form-modal-text{
@@ -810,4 +808,8 @@ input::placeholder{
 
 .icon-modal-form:focus{
     fill: #4D5AE5;
+}
+
+.div-relative{
+    position: relative;
 }
