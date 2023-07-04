@@ -871,7 +871,7 @@ input::placeholder{
 :root{
    --bg-color: #404bbf;
    --link-color: #4d5ae5;
-   --icon-fill-one: #ffffff;
+   --icon-fill-one: #F4F4FD;
 }
 
 .checkbox-model:checked + .accept-label .accept-privacy {
