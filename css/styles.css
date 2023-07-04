@@ -874,7 +874,7 @@ input::placeholder{
    --icon-fill-one: #ffffff;
 }
 
-.accept-privacy:checked {
+.checkbox-model:checked + .accept-label .accept-privacy {
     background-color: var(--bg-color);
     border: none;
     fill: var(--icon-fill-one);
