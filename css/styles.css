@@ -845,11 +845,18 @@ input::placeholder{
     margin-bottom: 24px;
 }
 
+
 .accept-label{
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: var(--link-five-color)
+}
+
+.accept-icon{
+    display: block;
+  margin: auto; 
+
 }
 
 
